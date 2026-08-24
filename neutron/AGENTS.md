@@ -4,9 +4,6 @@ This folder is a knowledge bundle published by Neutron. Every file is
 generated from documents uploaded to the organization's wiki — do not edit
 anything here by hand; the next publish overwrites it.
 
-This corpus is **fictional demo data** for Sunshine Equity Partners. Names,
-companies, and figures are invented.
-
 How to read it:
 
 - `documents/<type>/` holds a summary of each document, grouped by type.

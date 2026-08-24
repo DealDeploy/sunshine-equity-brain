@@ -11,4 +11,5 @@ title: "Documents"
 - [financial-report](./financial-report/)
 - [meeting-notes](./meeting-notes/)
 - [market-research](./market-research/)
+- [legal-document](./legal-document/)
 - [other](./other/)
